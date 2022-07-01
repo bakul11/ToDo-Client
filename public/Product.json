@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1",
+        "disc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error aperiam praesentium incidunt adipisci facere pariatur, magni sint atque non hic?",
+        "photo":"https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/MGN73/macbook-mgn73Zp-a-228x228.jpg",
+        "price":1800
+    },
+    {
+        "name":"Razer DeathAdder Essential Gaming Mouse",
+        "disc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error aperiam praesentium incidunt adipisci facere pariatur, magni sint atque non hic?",
+        "photo":"https://www.startech.com.bd/image/cache/catalog/mouse/razer/deathadder-essetial/deathadder-essential-228x228.jpg",
+        "price":200
+    },
+    {
+        "name":"Razer KRAKEN X 7.1 Gaming Headset",
+        "disc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error aperiam praesentium incidunt adipisci facere pariatur, magni sint atque non hic?",
+        "photo":"https://www.startech.com.bd/image/cache/catalog/headphone/razer/kraken-x/kraken-x-1-228x228.jpg",
+        "price":700
+    },
+    {
+        "name":"ASUS ProArt PA278QV 27-inch WQHD Monitor",
+        "disc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error aperiam praesentium incidunt adipisci facere pariatur, magni sint atque non hic?",
+        "photo":"https://www.startech.com.bd/image/cache/catalog/monitor/asus/proart-pa278qv/proart-pa278qv-1-228x228.jpg",
+        "price":700
+    }
+]
