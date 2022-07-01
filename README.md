@@ -1,6 +1,6 @@
-# Gadgets House
+# Diary Management
 
-Live Site Link :  [www.todo.com](https://todo-dev-app2.netlify.app/).
+Live Site Link :  [www.diary.com](https://todo-dev-app2.netlify.app/).
 
 ## Description  :
 
