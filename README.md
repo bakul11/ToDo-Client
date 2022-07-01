@@ -1,6 +1,6 @@
 # Gadgets House
 
-Live Site Link :  [www.gadgets.com](https://gadgets-house-b75e3.web.app/).
+Live Site Link :  [www.todo.com](https://todo-dev-app2.netlify.app/).
 
 ## Description  :
 
